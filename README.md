@@ -89,7 +89,7 @@ weather-pro-x/
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/weather-pro-x.git
+git clone https://github.com/ROMAAalt/weather-pro-x.git
 cd weather-pro-x
 open index.html
 ```
